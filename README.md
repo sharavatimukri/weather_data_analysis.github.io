@@ -1,4 +1,4 @@
-❄️ Weather Forecasting Analysis and Visualization Project
+❄️ Weather Data Analysis Project
 
 About the Project
 
