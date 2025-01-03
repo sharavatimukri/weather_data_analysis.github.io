@@ -18,4 +18,4 @@ Power BI/ Tableau:
 Used for creating interactive and visually appealing dashboards, charts and graphs that present the results of the weather data analysis.
 Excel:
 Used for performing basic data analysis and manipulation tasks such as sorting, filtering, and aggregating data.
-Python:
+
