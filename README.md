@@ -2,7 +2,7 @@
 
 About the Project
 
-This project is aimed at providing insights and visual representations of various weather patterns and trends, by analyzing and comparing weather data of different cities and regions across the world. The project uses various data analysis and visualization tools to help users understand the weather patterns and trends in a visually appealing and easy-to-understand manner.
+This project is aimed at providing insights and visual representations of various weather patterns and trends, by analyzing and comparing weather data of different cities. The project uses various data analysis and visualization tools to help users understand the weather patterns and trends in a visually appealing and easy-to-understand manner.
 
 📚 Project Description
 
