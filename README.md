@@ -1,11 +1,12 @@
 ❄️ Weather Forecasting Analysis and Visualization Project
+
 About the Project
+
 This project is aimed at providing insights and visual representations of various weather patterns and trends, by analyzing and comparing weather data of different cities and regions across the world. The project uses various data analysis and visualization tools to help users understand the weather patterns and trends in a visually appealing and easy-to-understand manner.
 
 📚 Project Description
-The project makes use of various data sources to gather weather information such as temperature, pressure, and humidity data. This data is then processed and analyzed using various data analysis and visualization tools such as SQL, Excel, Power BI/ Tableau and Python. The results of this analysis are then presented to the users through interactive visualizations and graphs, making it easier for them to understand and analyze weather trends and patterns.
 
-📊 Power BI Dashboard - O
+The project makes use of various data sources to gather weather information such as temperature, pressure, and humidity data. This data is then processed and analyzed using various data analysis and visualization tools such as SQL, Excel, Power BI/ Tableau and Python. The results of this analysis are then presented to the users through interactive visualizations and graphs, making it easier for them to understand and analyze weather trends and patterns.
 
 
 📲 Tech Used
